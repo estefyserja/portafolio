@@ -1,43 +1,157 @@
-# Astro Starter Kit: Minimal
+# Portafolio Personal - Estefany Scarlette Serrano Jaque
 
-```sh
-npm create astro@latest -- --template minimal
-```
+## Descripción
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Este proyecto corresponde a un portafolio web personal desarrollado para la asignatura de Computación Móvil de la Universidad Tecnológica Metropolitana (UTEM).
 
-## 🚀 Project Structure
+El sitio tiene como objetivo representar mi identidad profesional, mostrando información relevante sobre mi formación académica, habilidades técnicas y blandas, intereses personales, proyectos realizados y medios de contacto.
 
-Inside of your Astro project, you'll see the following folders and files:
+La página fue desarrollada utilizando HTML5 y CSS3, aplicando principios de diseño responsive y estructura semántica para garantizar una correcta visualización en distintos dispositivos.
+
+---
+
+## Sobre mí
+
+Mi nombre es Estefany Scarlette Serrano Jaque.
+
+Soy Técnico en Programación de Nivel Medio y actualmente me encuentro cursando mi último año universitario.
+
+Me considero una persona creativa, responsable, detallista y comprometida con el aprendizaje continuo. Mi objetivo profesional es desarrollarme en el área de tecnologías de la información participando en proyectos que permitan aportar soluciones innovadoras y eficientes.
+
+---
+
+## Características del sitio
+
+El portafolio incluye las siguientes secciones:
+
+- Presentación personal.
+- Fotografía de perfil.
+- Información "Sobre mí".
+- Habilidades técnicas.
+- Habilidades blandas.
+- Gustos e intereses.
+- Portafolio de proyectos.
+- Información de contacto.
+- Navegación interna entre secciones.
+- Diseño adaptable para dispositivos móviles y escritorio.
+
+---
+
+## Habilidades destacadas
+
+### Técnicas
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- C
+- PHP
+- Python
+- SQL
+
+### Blandas
+
+- Trabajo en equipo
+- Comunicación efectiva
+- Atención al detalle
+- Creatividad
+- Responsabilidad
+- Organización
+
+---
+
+## Proyectos incluidos
+
+### Páginas Web desde Cero
+
+Desarrollo de sitios web utilizando HTML, CSS y JavaScript aplicando diseño responsive.
+
+**Rol:** Desarrolladora Frontend.
+
+### Sistema de Gestión de Despachos
+
+Aplicación web para administrar información de despachos, clientes y productos.
+
+**Rol:** Desarrolladora Full Stack.
+
+### Sistema de Inventario
+
+Plataforma orientada al control de stock, productos y movimientos dentro de una organización.
+
+**Rol:** Desarrolladora Backend.
+
+---
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
+- Flexbox
+- Responsive Design
+
+---
+
+## Estructura del proyecto
 
 ```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+├── index.html
+├── styles.css
+├── perfil.jpg
+└── README.md
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## Cómo ejecutar el proyecto
 
-Any static assets, like images, can be placed in the `public/` directory.
+### Opción 1: Abrir directamente
 
-## 🧞 Commands
+1. Descargar o clonar el repositorio.
+2. Abrir el archivo `index.html` en cualquier navegador web moderno.
 
-All commands are run from the root of the project, from a terminal:
+### Opción 2: Utilizando Visual Studio Code
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+1. Abrir la carpeta del proyecto.
+2. Instalar la extensión Live Server.
+3. Ejecutar la opción "Open with Live Server".
 
-## 👀 Want to learn more?
+---
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Diseño y accesibilidad
+
+El sitio incorpora:
+
+- Estructura semántica HTML5.
+- Diseño responsive mediante Media Queries.
+- Uso de Flexbox para la distribución de elementos.
+- Navegación clara mediante enlaces internos.
+- Imágenes con atributos `alt`.
+- Contraste adecuado entre texto y fondo.
+- Efectos visuales mediante `hover` y `transition`.
+
+---
+
+## Contacto
+
+**Correo electrónico:**  
+eserrano@utem.cl
+
+**Teléfono:**  
++56 9 71266553
+
+**GitHub:**  
+https://github.com/estefyserja
+
+---
+
+## Autor
+
+**Estefany Scarlette Serrano Jaque**
+
+Universidad Tecnológica Metropolitana (UTEM)
+
+Asignatura: Computación Móvil
+
+Año: 2026
