@@ -93,32 +93,6 @@ Plataforma orientada al control de stock, productos y movimientos dentro de una 
 
 ---
 
-## Estructura del proyecto
-
-```text
-├── index.html
-├── styles.css
-├── perfil.jpg
-└── README.md
-```
-
----
-
-## Cómo ejecutar el proyecto
-
-### Opción 1: Abrir directamente
-
-1. Descargar o clonar el repositorio.
-2. Abrir el archivo `index.html` en cualquier navegador web moderno.
-
-### Opción 2: Utilizando Visual Studio Code
-
-1. Abrir la carpeta del proyecto.
-2. Instalar la extensión Live Server.
-3. Ejecutar la opción "Open with Live Server".
-
----
-
 ## Diseño y accesibilidad
 
 El sitio incorpora:
